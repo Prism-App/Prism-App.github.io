@@ -45,7 +45,7 @@ features                                  :
     
   - title                                 : Share Your Wallpapers
     description                           : Have your own wallpaper collection? Feeling generous? Share your wallpapers with the community!
-    fontawesome_icon_name                 : cloud-upload
+    fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
