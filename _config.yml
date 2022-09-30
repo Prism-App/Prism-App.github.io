@@ -36,17 +36,29 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Find the Perfect Wallpaper
-    description                           : Our endless collection of wallpapers features designs from your favorite shows - Bleach, Jujutsu Kaisen, and more!
+    description                           : Browse through our endless collection of anime wallpapers!
     fontawesome_icon_name                 : search
     
+  - title                                 : Your Favorite Anime
+    description                           : Designs from your favorite anime! Bleach, One Piece, Dragon Ball, and more! 
+    fontawesome_icon_name                 : fa-television
+    
   - title                                 : Download Unlimited Designs
-    description                           : Find a design you like? Go ahead, download it! We let you download as many wallpapers as you like.
+    description                           : Find a design you like? Go ahead, download as many wallpapers as you like.
     fontawesome_icon_name                 : arrow-alt-circle-down
     
   - title                                 : Share Your Wallpapers
     description                           : Have your own wallpaper collection? Feeling generous? Share your wallpapers with the community!
     fontawesome_icon_name                 : cloud
-
+    
+  - title                                 : iOS 16 Depth Effect
+    description                           : Want wallpapers with the iOS 16 depth effect? We have a section just for that!
+    fontawesome_icon_name                 : apple
+    
+  - title                                 : Personalize Your Experience
+    description                           : Unique browsing options with a dark and light mode toggle!
+    fontawesome_icon_name                 : toggle-on
+    
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
