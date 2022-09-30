@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Your Favorite Anime
     description                           : Designs from your favorite anime! Bleach, One Piece, Dragon Ball, and more! 
-    fontawesome_icon_name                 : television
+    fontawesome_icon_name                 : fa-apple
     
   - title                                 : Download Unlimited Designs
     description                           : Find a design you like? Go ahead, download as many wallpapers as you like.
@@ -53,7 +53,7 @@ features                                  :
     
   - title                                 : iOS 16 Depth Effect
     description                           : Want wallpapers with the iOS 16 depth effect? We have a section just for that!
-    fontawesome_icon_name                 : toggle-on
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Personalize Your Experience
     description                           : Unique browsing options with a dark and light mode toggle!
